@@ -1,0 +1,11 @@
+{
+  "slug": "mint-share-image",
+  "name": "Mint Share Image",
+  "kind": "token",
+  "description": "Build deterministic SVG share images from mint facts without a screenshot service.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}

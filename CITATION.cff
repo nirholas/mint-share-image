@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "mint-share-image"
+abstract: "Build deterministic SVG share images from mint facts without a screenshot service."
+repository-code: "https://github.com/nirholas/mint-share-image"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"

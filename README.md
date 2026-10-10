@@ -1,5 +1,10 @@
 # Mint Share Image
 
+<!-- three.ws:badges -->
+[![GitHub stars](https://img.shields.io/github/stars/nirholas/mint-share-image?style=flat&logo=github)](https://github.com/nirholas/mint-share-image/stargazers) [![Last commit](https://img.shields.io/github/last-commit/nirholas/mint-share-image?style=flat)](https://github.com/nirholas/mint-share-image/commits) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat)](https://github.com/nirholas/mint-share-image/pulls) [![AI agent friendly](https://img.shields.io/badge/AI%20agents-AGENTS.md%20%2B%20llms.txt-6d5dfc?style=flat)](https://github.com/nirholas/mint-share-image/blob/HEAD/AGENTS.md)
+<!-- /three.ws:badges -->
+
+
 Build deterministic SVG share images from mint facts without a screenshot service.
 
 ## Why this exists
@@ -47,3 +52,26 @@ MIT
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=nirholas/mint-share-image&type=Date)](https://www.star-history.com/#nirholas/mint-share-image&Date)
+
+<!-- three.ws:growth -->
+## Support the project
+
+If mint-share-image saves you time, **[star it on GitHub](https://github.com/nirholas/mint-share-image)**. Stars are how other developers and AI agents find the repositories worth trusting, and they cost you one click.
+
+Know someone who would use it? [Post on X](https://twitter.com/intent/tweet?text=mint-share-image%3A%20Build%20deterministic%20SVG%20share%20images%20from%20mint%20facts%20without%20a%20screenshot%20service&url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fmint-share-image) · [Share on Bluesky](https://bsky.app/intent/compose?text=mint-share-image%3A%20Build%20deterministic%20SVG%20share%20images%20from%20mint%20facts%20without%20a%20screenshot%20service%20https%3A%2F%2Fgithub.com%2Fnirholas%2Fmint-share-image) · [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fmint-share-image) · [Submit to Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Fnirholas%2Fmint-share-image&t=mint-share-image%3A%20Build%20deterministic%20SVG%20share%20images%20from%20mint%20facts%20without%20a%20screenshot%20service) · [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fmint-share-image&title=mint-share-image%3A%20Build%20deterministic%20SVG%20share%20images%20from%20mint%20facts%20without%20a%20screenshot%20service)
+
+## Built for AI agents too
+
+Coding agents and LLM tooling can read this repo directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt), [llms-full.txt](./llms-full.txt). Point an agent at `https://github.com/nirholas/mint-share-image` and it has the context it needs.
+
+## More from the same author
+
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme): the full catalog, grouped by topic
+- [three.ws](https://three.ws): the platform for 3D AI agents with Solana wallets, a skill marketplace and x402 payments
+- Questions or ideas: [open an issue](https://github.com/nirholas/mint-share-image/issues) or [start a discussion](https://github.com/nirholas/mint-share-image/discussions)
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=nirholas/mint-share-image)](https://github.com/nirholas/mint-share-image/graphs/contributors)
+
+<!-- /three.ws:growth -->

@@ -8,7 +8,7 @@ Build deterministic SVG share images from mint facts without a screenshot servic
 
 - Source: https://github.com/nirholas/mint-share-image
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
